@@ -1,0 +1,17 @@
+DEVANAGARI
+Devanagari;
+Prose Dev;
+
+SANSKRIT
+Verse;
+Verse in purp;
+ 
+SYNONYMS
+Synonyms;
+
+TRANSLATION
+After Verse;
+Translation;
+
+PURPORT
+Purport;

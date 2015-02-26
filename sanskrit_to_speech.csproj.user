@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>sanskrit_to_speech_0_0_0_129_setup\|sanskrit_to_speech_0_0_0_128_setup\|sanskrit_to_speech_0_0_0_125_setup\|sanskrit_to_speech_0_0_0_124_setup\|sanskrit_to_speech_0_0_0_123_setup\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://sites.google.com/site/srilaprabhupadamercy/|http://j.mp/srilaprabhupadamercy</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
